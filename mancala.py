@@ -1,8 +1,5 @@
 #
 ##Author: Radhey Ruparel
-##Description: This program is one of variant of a Mancala board,
-##Mancala is actually a family of games, its origins 
-##have been traced back to eastern Africa around the 6th century 
 #
 
 #Importing all the modules for the program execution  

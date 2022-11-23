@@ -3,6 +3,7 @@ This program is one of variant of a Mancala board, Mancala is actually a family 
 
 This code shows my abilites to use various arithmetic with python to create a simple 2 player board game. 
 
+![Screen Shot 2022-11-22 at 6 32 29 PM](https://user-images.githubusercontent.com/6331985/203453487-51aa1272-dd18-476d-bb36-d0977da71ec9.png)
 
 Source of infomration about the game: https://www.officialgamerules.org/mancala
 
